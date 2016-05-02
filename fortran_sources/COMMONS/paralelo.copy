@@ -1,0 +1,4 @@
+c   Variáveis para a paralelização     
+	 
+	integer 
+     ;  rank, comm, error, processo 
